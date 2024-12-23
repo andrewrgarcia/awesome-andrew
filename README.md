@@ -52,6 +52,9 @@
 - **[voxelforge](https://github.com/andrewrgarcia/voxelforge)**  
   ⚒️⬛ A Python package, powered by C++, for creating and manipulating voxel models with advanced spatial data structures like octrees and graphs. Integrates seamlessly with machine learning workflows, making it ideal for projects involving spatial data processing and 3D modeling.
 
+- **[voxelmap](https://github.com/andrewrgarcia/voxelmap)**  
+  📦🧊 A Python library for making voxel and three-dimensional models from NumPy arrays. Designed to be lightweight and intuitive for developers exploring 3D visualizations and data manipulation.
+
 ---
 
 ## Practical Scripting
@@ -66,4 +69,3 @@
 ## Contributing
 
 Your contributions and suggestions are always welcome! Please check out the [contribution guidelines](https://github.com/andrewrgarcia/awesome-andrew/CONTRIBUTING.md) if you’d like to get involved.
-
